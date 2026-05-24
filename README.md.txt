@@ -33,7 +33,7 @@ https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ## Files
 
-- `wine_quality_neural_networks.ipynb` — Main project notebook
+- `Fully-Connected Neural Networks.ipynb` — Main project notebook
 - `winequality-red.csv` — Dataset
 - `Project_Questions` — Project instructions
 
